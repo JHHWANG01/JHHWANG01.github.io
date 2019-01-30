@@ -26,20 +26,24 @@ permalink: /about/
       - 회사 제품 이슈 테스트
       - 유지보수 자동화 툴 개발
         1. 개발환경	
-         * 툴	유지보수 정검 툴(Java, Eclipse, Jdk1.8)
-         * 제품	CrossGuard Expoint V4.0
-         * WAS	Apache Tomcat8
-         * DB	MS SQL 2016
-         * OS	Window 10
-         * H/W	서버 로컬 PC
+          * 툴	유지보수 정검 툴(Java, Eclipse, Jdk1.8)
+          * 제품	CrossGuard Expoint V4.0
+          * WAS	Apache Tomcat8
+          * DB	MS SQL 2016
+          * OS	Window 10
+          * H/W	서버 로컬 PC
          
         2. 동작환경	
-         * 툴	유지보수 정검툴
-         * 제품	CrossGuard Expoint V4.0
-         * WAS	Apache Tomcat8
-         * DB	MS SQL 2008 이상 목표
-         * OS	Window Server 2008 이상 목표
-         * H/W	서버 로컬 PC
+          * 툴	유지보수 정검툴
+          * 제품	CrossGuard Expoint V4.0
+          * WAS	Apache Tomcat8
+          * DB	MS SQL 2008 이상 목표
+          * OS	Window Server 2008 이상 목표
+          * H/W	서버 로컬 PC
+          
+        3. 실제 구현 영상
+          * <iframe width="640" height="360" src="https://www.youtube.com/embed/kTcRRaXV-fg?ecver=1"  
+ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 ### More Information
 
