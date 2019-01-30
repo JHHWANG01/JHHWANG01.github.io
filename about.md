@@ -20,28 +20,26 @@ permalink: /about/
 ### 인턴:
   - (주)뉴젠씨앤아이 
     (각 보안 솔루션 회사들이 존재하는데 그것의 end point 역할)
-    ** 경험
-      회사 제품 가이드 작성
-      유지보수
-      회사 제품 이슈 테스트
-      유지보수 자동화 툴 개발
-       	
-      개발환경	 
-    >
-      툴	유지보수 정검 툴(Java, Eclipse, Jdk1.8)
-      제품	CrossGuard Expoint V4.0
-      WAS	Apache Tomcat8
-      DB	MS SQL 2016
-      OS	Window 10
-      H/W	서버 로컬 PC
-      동작환경	
-
-      툴	유지보수 정검툴
-      제품	CrossGuard Expoint V4.0
-      WAS	Apache Tomcat8
-      DB	MS SQL 2008 이상 목표
-      OS	Window Server 2008 이상 목표
-      H/W	서버 로컬 PC
+    - 경험
+      - 회사 제품 가이드 작성
+      - 유지보수
+      - 회사 제품 이슈 테스트
+      - 유지보수 자동화 툴 개발
+        - 개발환경	
+         * 툴	유지보수 정검 툴(Java, Eclipse, Jdk1.8)
+         * 제품	CrossGuard Expoint V4.0
+         * WAS	Apache Tomcat8
+         * DB	MS SQL 2016
+         * OS	Window 10
+         * H/W	서버 로컬 PC
+         
+        - 동작환경	
+         * 툴	유지보수 정검툴
+         * 제품	CrossGuard Expoint V4.0
+         * WAS	Apache Tomcat8
+         * DB	MS SQL 2008 이상 목표
+         * OS	Window Server 2008 이상 목표
+         * H/W	서버 로컬 PC
 
 ### More Information
 
