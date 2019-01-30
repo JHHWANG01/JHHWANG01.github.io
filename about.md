@@ -31,7 +31,7 @@ permalink: /about/
       - 유지보수
       - 회사 제품 이슈 테스트
       - 유지보수 자동화 툴 개발
-        1. 개발환경	
+       1. 개발환경	
           - 툴	유지보수 정검 툴(Java, Eclipse, Jdk1.8)
           - 제품	CrossGuard Expoint V4.0
           - WAS	Apache Tomcat8
@@ -40,19 +40,19 @@ permalink: /about/
           - H/W	서버 로컬 PC
          
         2. 동작환경	
-          - 툴	유지보수 정검툴
-          - 제품	CrossGuard Expoint V4.0
-          - WAS	Apache Tomcat8
-          - DB	MS SQL 2008 이상 목표
-          - OS	Window Server 2008 이상 목표
-          - H/W	서버 로컬 PC
+           - 툴	유지보수 정검툴
+           - 제품	CrossGuard Expoint V4.0
+           - WAS	Apache Tomcat8
+           - DB	MS SQL 2008 이상 목표
+           - OS	Window Server 2008 이상 목표
+           - H/W	서버 로컬 PC
           
-        3. [실제 구현 영상2]
+        3. [실제 구현 영상2]{https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be}.
           
 
 ### More Information
 
-끈기있고 무엇인가 계속 하고싶은 꿈 많은 개발자입니다.
+끈기있고 무엇인가 계속 하고싶은 꿈 많은 개발자입니다.<br>
 현재는 안드로이드로 반려견 관련 앱을 개발 진행중에 있습니다.
 안드로이드 앱 개발이 끝나면 아이오에스로 진행하려고 합니다.
 감사합니다.
@@ -60,5 +60,4 @@ permalink: /about/
 
 [deert101@gmail.com](mailto:email@domain.com)
 
-[실제 구현 영상1] :
-[실제 구현 영상2] : https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be
+
