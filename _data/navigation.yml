@@ -4,8 +4,8 @@ main:
     url: /_pages/year-archive/
   - title: "About"
     url: /about/
-  - title: "category"
-    url: /_pages/category-archive/
+  #- title: "category"
+  #  url: /_pages/category-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
