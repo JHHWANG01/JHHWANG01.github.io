@@ -3,7 +3,7 @@ main:
   - title: "year"
     url: /_pages/year-archive/
   - title: "about.md"
-    url: /_pages/about/
+    url: /about/
   - title: "category"
     url: /category-archive/
   # - title: "Sample Collections"
