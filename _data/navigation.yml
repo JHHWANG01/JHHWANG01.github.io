@@ -2,8 +2,8 @@
 main:
   - title: "year"
     url: /_pages/year-archive/
-  - title: "tag"
-    url: /_pages/tag-archive/
+  - title: "about"
+    url: /_pages/about/
   - title: "category"
     url: /category-archive/
   # - title: "Sample Collections"
