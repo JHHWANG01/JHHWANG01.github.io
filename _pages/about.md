@@ -1,6 +1,6 @@
 
 
-이력서
+RESUME
 =====
 
 ### 학력:
@@ -27,7 +27,8 @@
 - 유지보수
 - 회사 제품 이슈 테스트
 - 유지보수 자동화 툴 개발
-- 1.개발환경    
+
+1.개발환경    
 - 툴    유지보수 정검 툴(Java, Eclipse, Jdk1.8)
 - 제품    CrossGuard Expoint V4.0
 - WAS    Apache Tomcat8
@@ -47,8 +48,10 @@
 
 
 ### 자격증
+- 운전면허
 - 정보처리기사(18.11.16)
--토익 615(17.8.20)
+- 토익 615(17.8.20)
+
 
 ### More Information
 
@@ -59,5 +62,5 @@
 
 ### Contact me
 
-[deert101@gmail.com](mailto:email@domain.com)
+[deert101@gmail.com](mailto:email@domain.com)<br>
 [github](https://jhhwang01.github.io)
