@@ -2,7 +2,7 @@
 main:
   - title: "year"
     url: /_pages/year-archive/
-  - title: "about"
+  - title: "about.md"
     url: /_pages/about/
   - title: "category"
     url: /category-archive/
