@@ -12,17 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "어제와 똑같은 사람이 되지 않으려고 노력하는 사람." #좌측 상단 제목
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "황정현"
+description              : "개인공부 , 프로젝트 , 이력."
+url                      : https://jhhwang01.github.io #깃허브주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : jhhwang01/jhhwang01.github.io  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Jeong Hyeon Hwang"
+  avatar           : /images/HwangJH.jpg # path of avatar image, e.g. "/images/HwangJH.jpg"
+  bio              : "무엇이든 해보려고하는 절대 포기하지 않는.."
+  location         : "suwon , KR"
   email            :
   links:
     - label: "Email"
@@ -280,7 +280,11 @@ compress_html:
     envs: development
 
 
-# Defaults
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : dev-hundred-blog # Short-name
+
 defaults:
   # _posts
   - scope:
@@ -289,7 +293,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true # 댓글 활성화
       share: true
       related: true
