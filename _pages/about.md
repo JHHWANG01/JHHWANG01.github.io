@@ -37,15 +37,15 @@ toc: true
 
 ## 인턴
 
-- (주)뉴젠씨앤아이 (2018.09~12)
-(각 보안 솔루션 회사들의 end point 역할)
-- 경험
-- 회사 제품 가이드 작성
-- 유지보수
-- 회사 제품 이슈 테스트
-- 유지보수 자동화 툴 개발
+  - (주)뉴젠씨앤아이 (2018.09~12)
+  (각 보안 솔루션 회사들의 end point 역할)
+  - 경험
+  - 회사 제품 가이드 작성
+  - 유지보수
+  - 회사 제품 이슈 테스트
+  - 유지보수 자동화 툴 개발
 
-1.개발환경    
+a.개발환경    
 
 - 툴    유지보수 정검 툴(Java, Eclipse, Jdk1.8)
 - 제품    CrossGuard Expoint V4.0
@@ -54,7 +54,7 @@ toc: true
 - OS    Window 10
 - H/W    서버 로컬 PC
 
-2. 동작환경    
+b. 동작환경    
 
 - 툴    유지보수 정검툴
 - 제품    CrossGuard Expoint V4.0
@@ -63,7 +63,7 @@ toc: true
 - OS    Window Server 2008 이상 목표
 - H/W    서버 로컬 PC
 
-3. [실제 구현 영상2]( https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be})
+c. [실제 구현 영상2]( https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be})
 
 
 ## 자격증
