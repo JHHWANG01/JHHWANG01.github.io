@@ -5,7 +5,7 @@ excerpt: "주어진 상황에서 200%를 만들기위해 노력하겠습니다."
 toc: true
 ---
 
-이력서
+RESUME
 =====
 
 ### 학력:
@@ -67,5 +67,5 @@ toc: true
 
 ### Contact me
 
-[deert101@gmail.com](mailto:email@domain.com)
+[deert101@gmail.com](mailto:email@domain.com)<br>
 [github](https://jhhwang01.github.io)
