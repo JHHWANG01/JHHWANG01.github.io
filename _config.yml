@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeong Hyeon Hwang"
-  avatar           : /assets/_images/이력서 원본.png # path of avatar image, e.g. "/images/HwangJH.jpg"
+  avatar           : /assets/_images/이력서원본.png # path of avatar image, e.g. "/images/HwangJH.jpg"
   bio              : "무엇이든 해보려고하는 절대 포기하지 않는.."
   location         : "suwon , KR"
   email            :
