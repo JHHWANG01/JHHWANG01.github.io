@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "year"
-    url: /_pages/year-archive/
+  - title: "Portfolio"
+    url: /_pages/portfolio-archive/
   - title: "About"
     url: /about/
   #- title: "category"
