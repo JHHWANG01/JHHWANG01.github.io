@@ -3,6 +3,7 @@ layout: archive
 permalink: /portfolio-archive/
 title: "Posts by Portfolio"
 author_profile: true
+toe: true
 ---
 
 <hr>
