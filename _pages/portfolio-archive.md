@@ -212,4 +212,4 @@ static int cpui=1000, cpucal=0;
 			
 			
 - 프로젝트 동영상
-- [해당영상](https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be})
+	- [해당영상](https://www.youtube.com/watch?v=zFkvgAK9E74&feature=youtu.be})
