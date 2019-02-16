@@ -108,8 +108,11 @@ float getdust()
   3. 미세먼지가 높으면 창문 모터 회전
   4. 수분 감지 센서에 감지되면 창문 모터 회전
   5. 자외선 수치가 높으면 창문 모터 회전
-![앱인벤터코딩1](./assets/images/미세먼지 툴/앱인벤터.png)
-![앱인벤터코딩2](./assets/images/미세먼지 툴/앱인벤터 화면구성.png)
+  
+![어플흐름도](/assets/images/미세먼지 툴/어플리케이션 흐름도.png) <br> 
+![앱인벤터코딩1](/assets/images/미세먼지 툴/앱인벤터.png) <br>
+![앱인벤터코딩2](/assets/images/미세먼지 툴/앱인벤터 화면구성.png) <br>
+
 
 
 
@@ -194,23 +197,26 @@ static int cpui=1000, cpucal=0;
 		return cpuresult;
 	}
   ```
-- 내용
 
 
 - 개발내용
   1. 로그인 UI (SHA256 암호화) / Password Change
   2. 기본 정보 UI (텍스트 문서에 저장되어 있는 값을 암복호화 하여 불러옴)
-  3.  알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
+  3. 알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
   4. 시스템 정보 
+  5. 로그백 이용하여 오류에 대한 로그 정리
+  6. 유지보수 수동화 과정 가이드.
   <br>
-![목표](./assets/images/유지보수툴/목표.png)<br>
-![시작](./assets/images/유지보수툴/시작.png) <br>
-![2](./assets/images/유지보수툴/2.png) <br>
-![3](./assets/images/유지보수툴/3.png) <br>
-![시작](./assets/images/유지보수툴/로그인.png) <br>
-![기본정보화면](./assets/images/유지보수툴/기본정보화면.png) <br>
-![알림창](./assets/images/유지보수툴/알림창.png) <br>
-![시스템정보](./assets/images/유지보수툴/시스템정보.png) <br>
+![목표](/assets/images/유지보수툴/목표.png)<br>
+![시작](/assets/images/유지보수툴/시작.png) <br>
+![2](/assets/images/유지보수툴/2.png) <br>
+![logback](/assets/images/유지보수툴/logback.png) <br>
+![수동화툴](/assets/images/유지보수툴/수동화툴.png) <br>
+![3](/assets/images/유지보수툴/3.png) <br>
+![시작](/assets/images/유지보수툴/로그인.png) <br>
+![기본정보화면](/assets/images/유지보수툴/기본정보화면.png) <br>
+![알림창](/assets/images/유지보수툴/알림창.png) <br>
+![시스템정보](/assets/images/유지보수툴/시스템정보.png) <br>
 			
 			
 - 프로젝트 동영상
