@@ -199,7 +199,8 @@ static int cpui=1000, cpucal=0;
   1. 로그인 UI (SHA256 암호화) / Password Change
   2. 기본 정보 UI (텍스트 문서에 저장되어 있는 값을 암복호화 하여 불러옴)
   3.  알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
-  4. 시스템 정보
+  4. 시스템 정보 
+  <br>
 ![목표](./assets/images/유지보수툴/목표.png)<br>
 ![시작](./assets/images/유지보수툴/시작.png) <br>
 ![2](./assets/images/유지보수툴/2.png) <br>
