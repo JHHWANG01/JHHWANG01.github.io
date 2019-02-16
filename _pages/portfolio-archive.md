@@ -202,28 +202,30 @@ static int cpui=1000, cpucal=0;
 
 
 - 개발내용
-  1. 목표 & 시작
+  1. __목표 & 시작__
   	![목표](/assets/images/유지보수툴/목표.png)<br><br>
-	![시작](/assets/images/유지보수툴/시작.png) <br><br>
 	![2](/assets/images/유지보수툴/2.png) <br><br>
 	![3](/assets/images/유지보수툴/3.png) <br><br>
 	
-  2. 로그인 UI (__SHA256__ 암호화) / Password Change
-  	![로그인](/assets/images/유지보수툴/로그인.png) <br><br>
+  2. __로그인 UI__ (__SHA256__ 암호화) / Password Change
+  	![로그인](/assets/images/유지보수툴/유지보수_로그인.png) <br><br>
 	
-  3. 기본 정보 UI (텍스트 문서에 저장되어 있는 값을 암복호화(__AES__) 하여 불러옴)
-  	![기본정보화면](/assets/images/유지보수툴/기본정보.png) <br><br>
+  3. __기본 정보 UI__ (텍스트 문서에 저장되어 있는 값을 암복호화(__AES__) 하여 불러옴)
+  	![기본정보화면](/assets/images/유지보수툴/유지보수_txt.png) <br><br>
+  	![기본정보화면](/assets/images/유지보수툴/유지보수_기본정보.png) <br><br>
+	![기본정보화면](/assets/images/유지보수툴/유지보수_수정.png) <br><br>
+	![기본정보화면](/assets/images/유지보수툴/유지보수_오류.png) <br><br>
+
+  4. __알림창__ (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
+  	![알림창](/assets/images/유지보수툴/유지보수_알림창.png) <br><br>
 	
-  4. 알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
-  	![알림창](/assets/images/유지보수툴/알림창.png) <br><br>
-	
-  5. 시스템 정보 
-  	![시스템정보](/assets/images/유지보수툴/시스템정보.png) <br><br>
+  5. __시스템 정보__
+  	![시스템정보](/assets/images/유지보수툴/유지보수_시스템정보.png) <br><br>
 	
   6. __로그백__ 이용하여 오류에 대한 로그 정리
-  	![logback](/assets/images/유지보수툴/logback.png) <br><br>
+  	![logback](/assets/images/유지보수툴/유지보수_로그백.png) <br><br>
 	
-  7. 유지보수 수동화 과정 가이드.
+  7. __유지보수 수동화 과정 가이드__
    	![수동화툴](/assets/images/유지보수툴/수동화툴.png) <br>
   <br>
 
