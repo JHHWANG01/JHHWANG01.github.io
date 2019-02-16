@@ -209,10 +209,10 @@ static int cpui=1000, cpucal=0;
 	![3](/assets/images/유지보수툴/3.png) <br><br>
 	
   2. 로그인 UI (__SHA256__ 암호화) / Password Change
-  	![시작](/assets/images/유지보수툴/로그인.png) <br><br>
+  	![로그인](/assets/images/유지보수툴/로그인.png) <br><br>
 	
   3. 기본 정보 UI (텍스트 문서에 저장되어 있는 값을 암복호화(__AES__) 하여 불러옴)
-  	![기본정보화면](/assets/images/유지보수툴/기본정보화면.png) <br><br>
+  	![기본정보화면](/assets/images/유지보수툴/기본정보.png) <br><br>
 	
   4. 알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
   	![알림창](/assets/images/유지보수툴/알림창.png) <br><br>
