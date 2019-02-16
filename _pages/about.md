@@ -3,14 +3,14 @@ permalink: /about/
 title: "About"
 excerpt: "적응을 하기위해 모든지 노력하는 사람이되려고 노력중입니다."
 layouts_gallery:
-  - url: /assets/images/운동이미지.jpg
-    image_path: /assets/images/운동이미지.jpg
+  - url: /assets/images/잡/운동이미지.jpg
+    image_path: /assets/images/잡/운동이미지.jpg
     alt: "archive layout example"
-  - url: /assets/images/이력서원본.jpg
-    image_path: /assets/images/이력서원본.jpg
+  - url: /assets/images/잡/이력서원본.jpg
+    image_path: /assets/images/잡/이력서원본.jpg
     alt: "splash layout example"
-  - url: /assets/images/프로그래밍이미지.jpg
-    image_path: /assets/images/프로그래밍이미지.jpg
+  - url: /assets/images/잡/프로그래밍이미지.jpg
+    image_path: /assets/images/잡/프로그래밍이미지.jpg
     alt: "single layout with comments and related posts"
 last_modified_at: 2019-01-23T20:23:03-05:00
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
 ## 운동
 
-- ![운동](/assets/images/잡/운동이미지.png)
+- ![운동](/assets/images/잡/운동이미지.jpg)
 - __지치지않는 체력__
 - 헬스
 - 농구
@@ -31,13 +31,13 @@ toc: true
 
 ## 황정현
 
-- ![사진](/assets/images/잡/이력서원본.png)
+- ![사진](/assets/images/잡/이력서원본.jpg)
 - 시키는 일은 어떻게든 완수하려는 독한마음가짐을 갖고 있습니다.
 
 
 ## 프로그래밍
 
-- ![프로그래밍사진](/assets/images/잡/프로그래밍이미지.png)
+- ![프로그래밍사진](/assets/images/잡/프로그래밍이미지.jpg)
 - 앱 인벤터 ) 우주 게임 제작.
 - 아두이노 ) 창문 관리 시스템.
 - 자바 ) 유지보수 자동화 툴.
