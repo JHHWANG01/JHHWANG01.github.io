@@ -200,14 +200,14 @@ static int cpui=1000, cpucal=0;
   2. 기본 정보 UI (텍스트 문서에 저장되어 있는 값을 암복호화 하여 불러옴)
   3.  알림창 (기본정보 - > 시스템 정보 넘어갈 때 5초 정도소요)
   4. 시스템 정보
-![목표](./assets/images/유지보수툴/목표.png)
-![시작](./assets/images/유지보수툴/시작.png)
-![2](./assets/images/유지보수툴/2.png)
-![3](./assets/images/유지보수툴/3.png)
-![시작](./assets/images/유지보수툴/로그인.png)
-![기본정보화면](./assets/images/유지보수툴/기본정보화면.png)
-![알림창](./assets/images/유지보수툴/알림창.png)
-![시스템정보](./assets/images/유지보수툴/시스템정보.png)
+![목표](./assets/images/유지보수툴/목표.png)<br>
+![시작](./assets/images/유지보수툴/시작.png) <br>
+![2](./assets/images/유지보수툴/2.png) <br>
+![3](./assets/images/유지보수툴/3.png) <br>
+![시작](./assets/images/유지보수툴/로그인.png) <br>
+![기본정보화면](./assets/images/유지보수툴/기본정보화면.png) <br>
+![알림창](./assets/images/유지보수툴/알림창.png) <br>
+![시스템정보](./assets/images/유지보수툴/시스템정보.png) <br>
 			
 			
 - 프로젝트 동영상
