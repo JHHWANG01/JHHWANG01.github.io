@@ -4,6 +4,8 @@ permalink: /portfolio-archive/
 title: "Posts by Portfolio"
 author_profile: true
 ---
+
+<hr>
 # <center> Skill-Portfolio </center>
 
 #### 개인신상
