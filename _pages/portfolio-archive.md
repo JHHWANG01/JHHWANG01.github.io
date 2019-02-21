@@ -126,7 +126,7 @@ float getdust()
 
 
 - 프로젝트 동영상
-    - [해당영상](https://youtu.be/WEudRjVYw7s})
+    - [해당영상](https://www.youtube.com/watch?v=WEudRjVYw7s})
 
 
 
