@@ -1,0 +1,27 @@
+
+---
+
+layout:post
+title: hello Algorithm
+
+---
+
+
+오류
+=====
+## The superclass "javax.servlet.http.HttpServlet" was not found on the Java Build Path
+
+에러의 해결법은 
+
+project에서 오른쪽 버튼 클릭 => properties 로 들어가서
+
+project Facets를 찾아 클릭합니다.
+
+그럼 아래와 같은 창이 뜨게 되는데 우측에 Runtimes를 찾아 알맞게 수정해 줍니다. 그럼 해결!
+
+
+
+
+### Contact me
+
+[deert101@gmail.com](mailto:email@domain.com)
